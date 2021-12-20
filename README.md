@@ -34,4 +34,5 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortasında olduğu için Avarage 
 [2,3,5,8,7,9,4,15,6]
 
 [2,3,5,8,7,9,4,15,6]
+
 [2,3,4,8,7,9,5,15,6]
